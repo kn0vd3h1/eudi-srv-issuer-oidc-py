@@ -1,0 +1,1 @@
+console.log("This is a dummy JS file to trigger the JS analyzer.");
